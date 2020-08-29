@@ -1,10 +1,10 @@
 {
   "name": "emed9ja",
   "version": "1.0.0",
-  "description": "A medical database built to save lives",
+  "description": "An Express MVC Framework for Building Applications Fast. Enjoy good structure that helps you/your team standardize workflow while still building with plain old Express.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
